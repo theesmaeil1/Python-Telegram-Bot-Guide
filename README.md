@@ -1,7 +1,7 @@
 # آموزش کامل ساخت ربات تلگرام با پایتون ۱۴۰۴ - از صفر تا ربات ۲۴ ساعته حرفه‌ای (pyTelegramBotAPI)
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/theesmaeil1/.github/main/assets/telegram-bot-python-bot-banner.png](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/207441761/original/aaf3c0f3c869463f18b04ff9c8d547f261e04445/make-a-telegram-bot-using-python.png)" alt="Telegram Bot Python Banner" width="100%"/>
+  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/207441761/original/aaf3c0f3c869463f18b04ff9c8d547f261e04445/make-a-telegram-bot-using-python.png" alt="Telegram Bot Python Banner" width="100%"/>
 </p>
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
